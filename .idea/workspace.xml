@@ -2,53 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b731327-9354-418c-a88e-eeb8bdb83d3c" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/core.php" afterPath="$PROJECT_DIR$/wp-content/themes/core.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/wp-content/themes/css/font-awesome.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/css/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/wp-content/themes/css/fonts/fontawesome-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/favicon.ico" afterPath="$PROJECT_DIR$/wp-content/themes/favicon.ico" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/images/Banner_Clock.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/images/Banner_Clock.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/images/KevinHou.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/images/KevinHou.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/images/about-banner.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/images/about-banner.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/images/footer-logo.png" afterPath="$PROJECT_DIR$/wp-content/themes/images/footer-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/images/footer.png" afterPath="$PROJECT_DIR$/wp-content/themes/images/footer.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/images/guangji.png" afterPath="$PROJECT_DIR$/wp-content/themes/images/guangji.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/images/hk.png" afterPath="$PROJECT_DIR$/wp-content/themes/images/hk.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/images/home-banner-consulting.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/images/home-banner-consulting.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/images/home-banner.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/images/home-banner.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/images/home-banner2.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/images/home-banner2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/images/home-features-map.png" afterPath="$PROJECT_DIR$/wp-content/themes/images/home-features-map.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/images/logo.png" afterPath="$PROJECT_DIR$/wp-content/themes/images/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/images/menu.png" afterPath="$PROJECT_DIR$/wp-content/themes/images/menu.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/images/project-banner.jpg" afterPath="$PROJECT_DIR$/wp-content/themes/images/project-banner.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/images/ruijie.png" afterPath="$PROJECT_DIR$/wp-content/themes/images/ruijie.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/images/service.png" afterPath="$PROJECT_DIR$/wp-content/themes/images/service.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/images/si.png" afterPath="$PROJECT_DIR$/wp-content/themes/images/si.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/images/sumguo.png" afterPath="$PROJECT_DIR$/wp-content/themes/images/sumguo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/images/team.png" afterPath="$PROJECT_DIR$/wp-content/themes/images/team.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/images/yangliu.png" afterPath="$PROJECT_DIR$/wp-content/themes/images/yangliu.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/images/yifengguan.png" afterPath="$PROJECT_DIR$/wp-content/themes/images/yifengguan.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/pro/10-10-28-logo.png" afterPath="$PROJECT_DIR$/wp-content/themes/pro/10-10-28-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/pro/10-12-55-Raiden_logo_RAIDEN_margin.png" afterPath="$PROJECT_DIR$/wp-content/themes/pro/10-12-55-Raiden_logo_RAIDEN_margin.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/pro/aicoin-logo.png" afterPath="$PROJECT_DIR$/wp-content/themes/pro/aicoin-logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/pro/bbex.png" afterPath="$PROJECT_DIR$/wp-content/themes/pro/bbex.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/pro/chainfor.png" afterPath="$PROJECT_DIR$/wp-content/themes/pro/chainfor.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/pro/cmlogo.png" afterPath="$PROJECT_DIR$/wp-content/themes/pro/cmlogo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/pro/logo-icon.png" afterPath="$PROJECT_DIR$/wp-content/themes/pro/logo-icon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/pro/logo-itc.png" afterPath="$PROJECT_DIR$/wp-content/themes/pro/logo-itc.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/pro/logo-white.png" afterPath="$PROJECT_DIR$/wp-content/themes/pro/logo-white.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/pro/logo.png" afterPath="$PROJECT_DIR$/wp-content/themes/pro/logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/pro/maggie.png" afterPath="$PROJECT_DIR$/wp-content/themes/pro/maggie.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/pro/mdt_logo.png" afterPath="$PROJECT_DIR$/wp-content/themes/pro/mdt_logo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/pro/partners_3.png" afterPath="$PROJECT_DIR$/wp-content/themes/pro/partners_3.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/pro/prochain.png" afterPath="$PROJECT_DIR$/wp-content/themes/pro/prochain.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/pro/quo.png" afterPath="$PROJECT_DIR$/wp-content/themes/pro/quo.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/pro/tenx_logo_dark.png" afterPath="$PROJECT_DIR$/wp-content/themes/pro/tenx_logo_dark.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-content/themes/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-includes/js/jquery.SuperSlide.2.1.2.js" afterPath="$PROJECT_DIR$/wp-includes/js/jquery.SuperSlide.2.1.2.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-includes/js/jquery/jquery-migrate.min.js" afterPath="$PROJECT_DIR$/wp-includes/js/jquery/jquery-migrate.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-includes/js/jquery/jquery.js" afterPath="$PROJECT_DIR$/wp-includes/js/jquery/jquery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-includes/js/wp-embed.min.js" afterPath="$PROJECT_DIR$/wp-includes/js/wp-embed.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/templates/wp-includes/js/wp-emoji-release.min.js" afterPath="$PROJECT_DIR$/wp-includes/js/wp-emoji-release.min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -133,28 +86,6 @@
             <path>
               <item name="sumrise.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="sumrise.github.io" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sumrise.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sumrise.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sumrise.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sumrise.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sumrise.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sumrise.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-includes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sumrise.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="sumrise.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-includes" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
