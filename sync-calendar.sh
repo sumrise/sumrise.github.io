@@ -4,4 +4,4 @@ wget wget https://calendar.google.com/calendar/ical/7je3t02hd7r2oei4c0osmgs8fo%4
 
 git add -A
 git commit -m 'x'
-git push
+git push origin master
