@@ -11,9 +11,9 @@ if [ "$DIFF" != "" ]; then
     mv basic.ics.1 basic.ics
 
     git add -A
-    git commit -m 'x'
+    git commit -m 'sync calendar '
     git push origin master
 
 fi
-
+rm -rf basic.ics.1
 echo "end"
